@@ -2182,7 +2182,10 @@
 		events: events,
 
 		/* AJAX 类 */
-		ajax: ajax
+		ajax: ajax,
+
+		/* 可能会有修改常量的需求 */
+		constants: constants
 
 	});
 
